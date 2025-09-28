@@ -16,7 +16,7 @@ This repository contains the code associated with the paper **"Online simplex-st
   - `coeff_7.csv`: A coefficient matrix, each row was sampled from a Dirichlet distribution with parameters 1,1,1,1,1,1,1;  maximum purity level = 0.7.
 
 ### CodeOssmf
-   - Contains the code for the OSSMF algorithm, using SISAL as a baseline.
+   - Contains the code for the oSSMF algorithm, using SISAL as a baseline.
 
 
 
